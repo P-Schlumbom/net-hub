@@ -1,0 +1,12 @@
+{
+	"dataPath": "data/cifar-10-batches-py/data_batch_1",
+	"dataType": "cifar",
+	"modelName":"fire-depth",
+	"batchSize":128,
+	"epochs":25,
+	"modelDetails" : {
+		"mType":"gennet",
+		"nClass":10,
+		"learningRate": 1e-4
+		}
+}

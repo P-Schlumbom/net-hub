@@ -1,0 +1,10 @@
+{
+	"dataPath": "../../data/tiny-imagenet-200/train",
+	"dataType": "general",
+	"modelName":"knn-test",
+	"batchSize":128,
+	"epochs":100,
+	"modelDetails" : {
+		"mType":"knn"
+		}
+}

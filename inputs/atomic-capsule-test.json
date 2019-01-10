@@ -1,0 +1,13 @@
+{
+	"dataPath": "../../data/atomic data/displaced-atomic",
+	"dataType": "general",
+    "modelPath": "models/capsule_models/test-atomic_trained_capsnet_model.h5",
+	"modelName":"test-atomic",
+	"batchSize":128,
+	"epochs": 3,
+	"modelDetails" : {
+		"mType": "capsnet",
+		"nClass": 5,
+		"learningRate": 0.00001
+		}
+}

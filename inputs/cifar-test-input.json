@@ -1,0 +1,12 @@
+{
+	"dataPath": "data/cifar-10-batches-py/data_batch_1",
+	"dataType": "cifar",
+	"modelPath": "models/capsule_models/testModel_trained_capsnet_model.h5",
+	"modelName": "testModel",
+	"batchSize": 256,
+	"epochs": 5,
+	"modelDetails" : {
+		"mType": "capsnet",
+		"learningRate": 0.001
+		}
+}

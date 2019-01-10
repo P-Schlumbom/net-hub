@@ -1,0 +1,11 @@
+{
+	"dataPath": "../../data/Omniglot Sets/Omniglot",
+	"dataType": "general",
+	"modelName": "mono-test",
+	"batchSize": 128,
+	"epochs": 5,
+	"modelDetails" : {
+		"mType": "mononet",
+		"learningRate": 1e-3
+		}
+}

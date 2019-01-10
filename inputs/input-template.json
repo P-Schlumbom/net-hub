@@ -1,0 +1,14 @@
+{
+	"dataPath":,
+	"modelPath":,
+	"modelName":,
+	"batchSize":,
+	"epochs":,
+	"steps":,
+	"modelDetails" : {
+		"mType":
+		},
+	"dataDetails" : {
+		"mType":
+		}
+}

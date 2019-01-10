@@ -1,0 +1,12 @@
+{
+	"dataPath":"e:/atomic concept data/",
+    "modelPath": "models/capsule_models/displacement-atomic_trained_capsnet_model.h5",
+	"modelName":"displacement-atomic",
+	"batchSize":128,
+	"epochs": 200,
+	"modelDetails" : {
+		"mType": "capsnet",
+		"nClass": 5,
+		"learningRate": 0.00001
+		}
+}

@@ -1,0 +1,12 @@
+{
+	"dataPath": "../../data/atomic data/atomic new",
+	"dataType": "general",
+	"modelName":"simple-auto",
+    "modelPath":"models/autoencoder_models/simple-auto_trained_model.h5",
+	"batchSize":128,
+	"epochs":100,
+	"modelDetails" : {
+		"mType":"autoencoder",
+		"learningRate": 1e-5
+		}
+}

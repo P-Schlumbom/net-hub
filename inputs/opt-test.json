@@ -1,0 +1,12 @@
+{
+	"dataPath": "../../data/Omniglot Sets/Omniglot",
+	"dataType": "general",
+	"modelName":"opt-test",
+	"batchSize":128,
+	"epochs":5,
+	"modelDetails" : {
+		"mType":"gennet",
+		"nClass":5,
+		"learningRate": 1e-5
+		}
+}

@@ -1,0 +1,11 @@
+{
+	"dataPath":"e:/atomic concept data/",
+	"modelName":"32digit-atomic",
+	"batchSize":128,
+	"epochs": 50,
+	"modelDetails" : {
+		"mType": "capsnet",
+		"nClass": 5,
+		"learningRate": 0.0001
+		}
+}

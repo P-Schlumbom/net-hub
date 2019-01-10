@@ -1,0 +1,11 @@
+{
+	"dataPath": "data/cifar-10-batches-py/data_batch_1",
+	"modelName":"fire-bypass",
+	"batchSize":128,
+	"epochs":100,
+	"modelDetails" : {
+		"mType":"gennet",
+		"nClass":10,
+		"learningRate": 0.00001
+		}
+}

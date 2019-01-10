@@ -1,0 +1,11 @@
+{
+	"dataPath": "../../data/atomic data/atomic new",
+	"dataType": "general",
+	"modelName":"atomic-auto-large",
+	"batchSize":128,
+	"epochs":10,
+	"modelDetails" : {
+		"mType":"autoencoder",
+		"learningRate": 1e-5
+		}
+}

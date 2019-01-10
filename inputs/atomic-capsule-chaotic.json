@@ -1,0 +1,12 @@
+{
+	"dataPath":"e:/atomic concept data/",
+    "modelPath": "models/capsule_models/atomic-chaotic_trained_capsnet_model.h5",
+	"modelName":"atomic-chaotic",
+	"batchSize":128,
+	"epochs": 100,
+	"modelDetails" : {
+		"mType": "capsnet",
+		"nClass": 5,
+		"learningRate": 1e-7
+		}
+}

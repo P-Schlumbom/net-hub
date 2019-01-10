@@ -1,0 +1,10 @@
+{
+	"dataPath": "data/cifar-10-batches-py/data_batch_1",
+	"modelName":"atomic-auto",
+	"batchSize":128,
+	"epochs":1000,
+	"modelDetails" : {
+		"mType":"autoencoder",
+		"learningRate": 1e-5
+		}
+}

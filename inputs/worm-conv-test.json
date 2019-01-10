@@ -1,0 +1,11 @@
+{
+	"dataPath": "data/cifar-10-batches-py/data_batch_1",
+	"modelPath":"models/convnet_models/worms-testModel_trained_convnet_model.h5",
+	"modelName":"worms-testModel",
+	"batchSize":128,
+	"epochs":50,
+	"modelDetails" : {
+		"mType":"convnet",
+		"nClass":2
+		}
+}

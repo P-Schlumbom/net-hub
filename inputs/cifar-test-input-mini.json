@@ -1,0 +1,11 @@
+{
+	"dataPath": "data/cifar-10-batches-py/data_batch_1",
+	"modelPath": "models/capsule_models/garbage_model.h5",
+	"modelName": "garbage",
+	"batchSize": 256,
+	"epochs": 1,
+	"modelDetails" : {
+		"mType": "capsnet",
+		"learningRate": 0.001
+		}
+}
